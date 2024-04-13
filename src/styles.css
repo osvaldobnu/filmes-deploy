@@ -1,0 +1,25 @@
+body {
+    background-color: black;
+    margin: 0;
+    padding: 0;
+}
+
+.navbar {
+    background-color: red;
+}
+
+.navbar-dark .navbar-nav .nav-link {
+    color: white !important;
+}
+
+.card {
+    background-color: #333;
+}
+
+.card-title {
+    color : white;
+}
+
+.card-text {
+    color : black;
+}
